@@ -1,0 +1,10 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "name": "Test product 1",
+      "description": "Test description 1",
+      "price": 55.6
+    }
+  ]
+}
